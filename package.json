@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://erikkimsey.com",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "d3": "^5.9.2",
     "gh-pages": "^2.0.1",
     "gsap": "^2.1.2",
